@@ -78,7 +78,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Download or clone the project folder:
 ```bash
-git clone https://github.com/your-username/workout-planner.git
+git clone https://github.com/rayenbenyoussef/workout-planner.git
 cd workout-planner
 ```
 
